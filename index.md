@@ -16,6 +16,6 @@ My GitHub page is http://github.com/KevinHendersonCSUF.
 
     Lab 9 Part 1 was a favorite because me and my partner were actually able to communicate like friends rather than strangers who just met. My other partners were pretty shy which led to communication misunderstandings. This made it pretty fun as I had someone I can talk to.
 
-*Lab 10
+* Lab 10
 
     Lab 10 Part 1 was also a favorite for the same reasons. However this one was pretty hard. I still enjoyed it however. I learned how to code a try-catch function here too.
